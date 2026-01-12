@@ -31,3 +31,6 @@ dd29bdc1-4d71-4f40-9fbd-ba2581ff4805,industry,factory_2,8.459,kWh,2026-01-12T09:
 38c5b407-836a-4c6b-b231-7ac40ded542c,industry,factory_2,11.665,kWh,2026-01-12T09:39:40.207570+00:00,"{""source"": ""synthetic"", ""details"": {""active_shift"": true}}"
 3d3358de-2954-49a0-b663-8efb0c8788d0,industry,factory_2,10.312,kWh,2026-01-12T09:39:50.207949+00:00,"{""source"": ""synthetic"", ""details"": {""active_shift"": true}}"
 921efb34-af73-4674-9e75-31136b50e84f,industry,factory_2,12.262,kWh,2026-01-12T09:40:00.208564+00:00,"{""source"": ""synthetic"", ""details"": {""active_shift"": true}}"
+18406699-541e-437d-ac5a-ea5d4830c6fd,industry,factory_2,6.409,kWh,2026-01-12T09:40:10.208930+00:00,"{""source"": ""synthetic"", ""details"": {""active_shift"": true}}"
+4c439f21-b232-4dd6-a859-98e43705aa44,industry,factory_2,8.698,kWh,2026-01-12T09:40:20.209541+00:00,"{""source"": ""synthetic"", ""details"": {""active_shift"": true}}"
+adc9edf3-5164-48e5-bb46-70c9b231a4b7,industry,factory_2,13.856,kWh,2026-01-12T09:40:30.210184+00:00,"{""source"": ""synthetic"", ""details"": {""active_shift"": true}}"
